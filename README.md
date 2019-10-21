@@ -6,11 +6,12 @@ For this assignment you will be practicing creating HTML using PHP array and loo
 ## Requirements
 Complete the following tasks:
 
-1. Convert the **index.html** file to be a PHP file.
-2. Using arrays, loops, and the files provided complete the tasks below. 
+1. Clone this repository from GitHub and use the provided files to complete the assignment. 
+2. Convert the **index.html** file to be a PHP file.
+3. Using arrays, loops, and the files provided complete the tasks below. 
     1. Generate all 52 cards of a deck.
-    2. Use the `rand()` function to generate 52 random cards
-3. Provide comments and pseudo code on how to solve the problem, what methods will be used, and why.
+    2. Use the [`rand()`](https://www.php.net/manual/en/function.rand.php) function to generate 52 random cards
+4. Provide comments and pseudo code on how to solve the problem, what methods will be used, and why.
 
 ## Example
 A completed version of the assignment can be found at the following:
@@ -20,8 +21,9 @@ A completed version of the assignment can be found at the following:
 ## Submission
 1. Create a commit with the message "Completed the Deck of Cards assignment"
 2. Push to GitHub
-3. Submit the URL to your GitHub Repository in BrightSpace
+3. Submit the URL to your GitHub Repository to the **Deck of Cards** assignment on BrightSpace
 
+## Plagiarism Honor Code
 By making the submission you also agree to the Algonquin College Student Attestation of Academic Integrity below: 
 
 **I hereby declare that the work I submit throughout the duration of this course/program will be my own work.**
